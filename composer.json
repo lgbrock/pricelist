@@ -1,0 +1,15 @@
+{
+	"name": "loganbrock/pricelist",
+	"authors": [
+		{
+			"name": "Logan Brock",
+			"email": "logan.g.brock@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"app\\": "./"
+		}
+	}
+}
